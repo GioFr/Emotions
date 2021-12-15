@@ -3,5 +3,6 @@ In this notebook I explore some deep learning techniques for detection and class
 
 ResNet is a very powerful architecture which exploits the identity mappings on top of CNN and by using skipping connections property it deals with the impacts of vanishing gradients.
 
-![](images/res.png)
+<img src='images/res.png' width='200'> <img src='images/face.png' width='200'> 
+
 
